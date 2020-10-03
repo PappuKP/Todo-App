@@ -1,72 +1,28 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-### todo-app-using-react-js-with-api
-Open [https://pk-react-todo-app.netlify.com/](https://pk-react-todo-app.netlify.com/) to view it in the browser.
-Also you can use it. 
-Have Enjoy
+# ToDo Web App using ReactJS with API
 
-## Available Scripts
+## Sample Look of the Website
 
-In the project directory, you can run:
+![alt](https://cdn.discordapp.com/attachments/579784126807146508/761851315172147200/unknown.png)
+A simple todo web application built by [PappuKP](https://www.linkedin.com/in/pappu-kumar-pashi-75977a172/). 
 
-### `npm start`
+## Features :
+- Multi Page Website
+- Animations for different pages
+- Multiple Portfolios in a page
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Dependancies:
+- React
+- React-DOM
+- React Router DOM
+- Axios
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Languages:
+- HTML5
+- CSS3
+- JavaScript
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Live Project 
+Project Live Demo: [https://pk-react-todo-app.netlify.com/](https://pk-react-todo-app.netlify.com/) 
+Open above link to view it in the browser. <br />
+Also you can use it. <br />
+Have Enjoy!
